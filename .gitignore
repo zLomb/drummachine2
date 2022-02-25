@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+src/music/sounds/RDM_TapeB_MT40-ClHat.wav
+src/music/sounds/RDM_TapeB_MT40-Kick02.wav
+src/music/sounds/RDM_TapeB_MT40-Snr02.wav
+src/music/sounds/RDM_TapeB_MT40-Snr03.wav
+src/music/sounds/RDM_TapeB_SR88-ClHat.wav
+src/music/sounds/RDM_TapeB_SR88-Perc.wav
+src/music/sounds/RDM_TapeB_SR88-Snr.wav
+src/music/sounds/RDM_TapeB_SY1-ClHat.wav
+src/music/sounds/RDM_TapeB_SY1-Kick01.wav
+src/music/sounds/RDM_TapeB_SY1-Kick02.wav
+src/music/sounds/RDM_TapeB_SY1-Kick03.wav
+src/music/sounds/RDM_TapeB_SY1-Kick04.wav
+src/music/sounds/RDM_TapeB_SY1-OpHat.wav
+src/music/sounds/RDM_TapeB_SY1-Perc01.wav
+src/music/sounds/RDM_TapeB_SY1-Perc02.wav
+src/music/sounds/RDM_TapeB_SY1-Perc04.wav
+src/music/sounds/RDM_TapeB_SY1-Snr01.wav
+src/music/sounds/RDM_TapeB_SY1-Snr02.wav
+src/music/sounds/RDM_TapeB_SY1-Snr03.wav
+src/music/sounds/RDM_TapeB_SY1-Tom01.wav
+src/music/sounds/RDM_TapeB_SY1-Tom02.wav
+src/music/sounds/RDM_TapeB_SY1-Tom03.wav
