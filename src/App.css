@@ -46,6 +46,14 @@ body {
   font-size: 25px;
 }
 
+#title {
+  font-family: "Bungee", cursive;
+  color: rgb(116, 116, 116);
+  font-size: 1.2em;
+  text-shadow: 1px 1px rgb(46, 46, 46);
+  margin-right: 10%;
+}
+
 #power-btn {
   width: 70px;
   height: 70px;

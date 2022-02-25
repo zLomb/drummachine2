@@ -83,6 +83,7 @@ function App() {
     <div className="container">
       <div className="row" id="drum-machine">
         <div className="col-xs-12 d-flex justify-content-center">
+          <h1 id="title" className="d-flex align-items-center">Drum Machine</h1>
           <button
             id="power-btn"
             style={{ backgroundColor: "#f01a50" }}
