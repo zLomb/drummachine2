@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
 html,
 body {
   height: 100%;
-  background-color: #85f8b3 !important;
+  background-color: rgb(221, 221, 221) !important;
 }
 
 #drum-machine {
@@ -10,7 +12,7 @@ body {
   max-width: 450px;
   height: 450px;
   border-radius: 10px;
-  border: double rgb(133, 248, 179) 10px;
+  border: double rgb(34, 33, 33) 10px;
   position: fixed;
   top: 50%;
   left: 50%;
